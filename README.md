@@ -1,9 +1,3 @@
-Here’s a **clean, professional README.md** tailored exactly to your project (based on your assignment) 
-
-You can copy-paste this directly into your GitHub repo 👇
-
----
-
 # 📊 Sentiment Analysis on Product Reviews
 
 ## 📌 Project Overview
@@ -157,10 +151,3 @@ jupyter notebook
 ## 👤 Author
 
 **Musharraf Ali**
-
----
-
-If you want, I can also:
-
-* 🔥 Make this README more **attractive with badges & images**
-* 🚀 Convert your project into a **Streamlit app (very impressive for viva/interview)**
