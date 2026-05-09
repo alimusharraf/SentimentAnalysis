@@ -147,7 +147,3 @@ jupyter notebook
 * Add real-time review analysis
 
 ---
-
-## 👤 Author
-
-**Musharraf Ali**
